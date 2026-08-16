@@ -76,7 +76,7 @@ I am based in Sierra Leone 🇸🇱 and I am particularly interested in building
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [Oracle Trading Engine](https://github.com/crptoangel232/oracle-trading-engine) | Autonomous AI trading platform — 16-entity data model, 10 strategies, real-time risk management | TypeScript, React, AI |
-| [PhishGuard](https://github.com/crptoangel232/phishguard) | AI phishing URL detector — 18 feature analysis with Random Forest ML model | Python, scikit-learn, Flask |
+| [PhishGuard](https://github.com/crptoangel232/phishguard) | Security suite: AI phishing URL detector + network port scanner with vulnerability assessment | Python, scikit-learn, Flask, socket |
 | [hushBox](https://github.com/crptoangel232/hushbox) | Movie discovery app with live search, genre filtering, and persistent watchlist | JavaScript, TMDB API |
 | [VAYAMA](https://github.com/crptoangel232/VAYAMA) | Transport business management platform | TypeScript, React |
 | [VAYAMA-social](https://github.com/crptoangel232/VAYAMA-social) | Social community module for transport network | TypeScript, React |
